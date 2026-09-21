@@ -1,0 +1,6 @@
+{
+  "name": "All-Age Sleep Cycle & Duration Guide",
+  "description": "Interactive sleep calculator and medically recommended sleep duration and 90-minute cycle guide tailored across all age groups, from newborns to older adults.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
